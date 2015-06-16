@@ -1,0 +1,1 @@
+insert into javase_jndi_wildfly820_example1.language (id, symbol) values (1, 'EN');
